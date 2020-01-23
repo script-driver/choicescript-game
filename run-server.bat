@@ -3,7 +3,7 @@
 ::
 ::Dan Fabulich licenses this file to you under the
 ::ChoiceScript License, Version 1.0 (the "License"); you may
-::not use this file except in compliance with the License. 
+::not use this file except in compliance with the License.
 ::You may obtain a copy of the License at
 ::
 :: http://www.choiceofgames.com/LICENSE-1.0.txt

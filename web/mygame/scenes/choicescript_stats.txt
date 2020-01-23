@@ -1,8 +1,17 @@
-This is a stats screen!
-
+[b]Attributes:[/b]
 *stat_chart
-  percent Leadership
-  opposed_pair Strength
-    Weakness
-  text Leadership
-  text Strength
+  opposed_pair Empathy
+    Detachment
+  opposed_pair Idealism
+    Practicality
+  opposed_pair Rebellion
+    Conformity
+
+[b]Skills:[/b]
+*stat_chart
+  text Magic
+  text Survival
+  text Education
+  text Combat
+  text Arts
+  text Engineering
